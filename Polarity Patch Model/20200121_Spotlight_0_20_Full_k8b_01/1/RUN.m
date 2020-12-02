@@ -1,3 +1,11 @@
+%% Code authors:
+% Debraj Ghose
+% Maria Minakova
+% Natasha Savage
+% Natash Layton
+% Anita Layton
+% Daniel Lew
+
 close all;
 clear all;
 tic
